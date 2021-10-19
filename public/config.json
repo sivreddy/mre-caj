@@ -30,7 +30,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "3de27a14-9f8b-49e3-a768-024a77cc19eb",
+      "applicationExtensionKey": "74914b04-63ef-46b0-832e-9c77e2cf25c1",
        "save": {
            "url": "https://https://mre-caj.herokuapp.com/herokuapp.com/save",
             "verb": "POST",
