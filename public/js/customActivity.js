@@ -9,7 +9,7 @@ define([
     var payload = {};
     var lastStepEnabled = false;
     var steps = [ // initialize to the same value as what's set in config.json for consistency
-        { "label": "Create SMS Message", "key": "step1" }
+        { "label": "Create SMS Message", "3de27a14-9f8b-49e3-a768-024a77cc19eb": "step1" }
     ];
     var currentStep = steps[0].key;
 
